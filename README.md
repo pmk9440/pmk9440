@@ -8,7 +8,7 @@
 
 ### Client Project (Android)
 👉 Mini Menu Project
-👉 Weather Alarm App Project
+\n👉 Weather Alarm App Project
 👉 Memo App Project
 
 ### Front-End Project
